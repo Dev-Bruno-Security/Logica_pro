@@ -1,9 +1,5 @@
 """
-Algoritmo 5: Conta Bancária
-Lê o número da conta do cliente, saldo, débito e crédito.
-Após, calcula e escreve o saldo atual (saldo atual = saldo - débito + crédito).
-Também testa se saldo atual for maior que ou igual a zero escrever uma mensagem
-'Saldo Positivo', senão escrever uma mensagem 'Saldo Negativo'.
+Questão 5
 """
 
 def calcular_conta_bancaria(numero_conta: str, saldo: float, debito: float, credito: float) -> dict:

@@ -1,8 +1,5 @@
 """
-Algoritmo 1: Maçãs Customizadas
-Maçãs custom custam R$1,30 cada se forem compradas menos de uma dúzia.
-Se forem compradas pelo menos 12, custam R$1,00 cada.
-Calcula o custo total da compra com desconto variável.
+Questão 1
 """
 
 def calcular_macos_customizadas(quantidade: int) -> dict:

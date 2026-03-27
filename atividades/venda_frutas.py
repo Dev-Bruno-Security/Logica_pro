@@ -1,13 +1,5 @@
 """
-Algoritmo 9 (alternativo): Venda de Frutas
-Uma fruta está sendo vendida com a seguinte tabela de preços:
-- Morango: até 5 Kg = R$2,50 por Kg; acima de 5 Kg = R$2,20 por Kg
-- Maçã: até 5 Kg = R$1,80 por Kg; acima de 5 Kg = R$1,50 por Kg
-
-Se o cliente comprar maçã ou morango (ou ambas) e o valor total das compras
-ultrapassar R$25,00, receberá ainda um desconto de 10% sobre o total.
-Escreve um algoritmo para ler a quantidade [em Kg] de morango e a quantidade [em Kg]
-de maçã e escrever o valor de cada fruta a ser pago e o valor total das compras.
+Questão 9
 """
 
 def calcular_venda_frutas(quantidade_morango_kg: float, quantidade_maca_kg: float) -> dict:

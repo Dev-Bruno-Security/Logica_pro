@@ -1,13 +1,5 @@
 """
-Algoritmo 8 e 9: Desconto em Combustível
-Um posto está vendendo combustíveis com a seguinte tabela de descontos:
-- Álcool: até 20 litros, desconto de 3% por litro; acima de 20 litros, desconto de 5% por litro
-- Gasolina: até 20 litros, desconto de 4% por litro; acima de 20 litros, desconto de 6% por litro
-
-Escreve um algoritmo que leia o número de litros vendidos e o tipo de combustível (codificado
-da seguinte forma: A-álcool, G-gasolina), calcule e imprima o valor a ser pago pelo cliente.
-
-Preços: álcool R$2.90 e gasolina R$3.30
+Questão 8
 """
 
 def calcular_desconto_combustivel(tipo_combustivel: str, quantidade_litros: float) -> dict:

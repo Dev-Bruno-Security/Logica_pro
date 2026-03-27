@@ -1,13 +1,5 @@
 """
-Algoritmo 10: Validação de Código de Usuário
-Faça um algoritmo para ler um número que é um código de usuário.
-Caso este código seja diferente de um código armazenado (igual a 1234)
-deve ser apresentada uma mensagem de usuário inválido!!.
-Caso a senha esteja incorreta, deve ser lido outro valor que é a senha.
-Se esta estiver correta, deve ser mostrada uma mensagem 'Acesso permitido'.
-Caso contrário, deve ser mostrada uma mensagem 'Senha Incorreta'.
-Caso a senha esteja correta, a dever ser mostrada uma mensagem 'Acesso permitido'.
-Caso o número digitado seja maior que 9999, deve ser mostrada uma mensagem 'Número incorreto'.
+Questão 10
 """
 
 def validar_codigo_usuario(codigo: int, senha: str = None) -> dict:

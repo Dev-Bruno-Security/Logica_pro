@@ -1,8 +1,5 @@
 """
-Algoritmo 2: Cálculo de Idade
-Lê o ano atual e o ano de nascimento de uma pessoa.
-Escreve na tela uma mensagem que diga se ela poderá ou não votar
-(é necessário ter nascido até este ano início, isto é a pessoa nasceu).
+Questão 2
 """
 
 def calcular_idade(ano_atual: int, ano_nascimento: int) -> dict:

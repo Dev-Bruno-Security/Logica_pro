@@ -1,12 +1,5 @@
 """
-Algoritmo 3: Jornada de Trabalho
-A jornada de trabalho semanal de um funcionário é de 40 horas.
-O funcionário que trabalhar mais de 40 horas receberá hora extra,
-cujo cálculo é o valor da hora regular com um acréscimo de 50%.
-Calcula o número de horas trabalhadas em um mês, o salário da hora
-e escreve o salário total do funcionário, que deverá ser acrescent-
-ado das horas extras, caso tenham sido trabalhadas.
-(Considere que o mês possui 4 semanas exatas).
+Questão 3
 """
 
 def calcular_jornada_trabalho(horas_trabalhadas_mes: float, valor_hora_regular: float) -> dict:
